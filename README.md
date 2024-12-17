@@ -1,10 +1,6 @@
-# projektOTP
-
-#### Server setup
-`` npm install mongodb ``
-`` npm install express ``
-
-run s ``node .``
-
-
 # otpSync-frontend
+![slikaLogin]("./imgs/login.png")
+![slikaProfile]("./imgs/profile.png") 
+![slikaDionica]("./imgs/stocks.png") 
+![slikaPoslovi]("./imgs/jobs.png") 
+![slikaVijesti]("./imgs/news.png") 
